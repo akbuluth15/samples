@@ -10,6 +10,6 @@ int main()
   b = a - b;  // b becomes 4
   a = a - b;  // a becomes 5
   
-  cout << "After Swapping: x =" << x << ", y=" << y;
+  cout << "After Swapping: a =" << a << ", b =" << b;
 
 }
